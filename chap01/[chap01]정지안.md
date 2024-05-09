@@ -309,6 +309,6 @@ For Large-scale Application
 - Divide each tier into independent services
 - Utilize continuous system monitoring and automation tools
 
-![Overall Architecture](1st%20Week%205e36a5eafc9b42429643134173d909e9/KakaoTalk_20240509_164930132.jpg)
+![KakaoTalk_20240509_164930132](https://github.com/aws-cloud-clubs/2024-khu-study/assets/83760210/761f16e5-2721-477a-ad68-96afc8240547)
 
 Overall Architecture
