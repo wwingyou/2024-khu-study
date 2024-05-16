@@ -19,10 +19,10 @@
 
 > #### <span style='background-color:#f7ddbe'>**_어떤 데이터 베이스를 사용할 것인가?_**</span> **RDBMS vs NoSQL**
 >> |--|RDBMS|NoSQL|
-|------|---|---|
-|특징|조인연산 지원|조인연산을 지원 X|
-|용도|정형화된 데이터를 다룰 때|비정형 데이터를 다룰 때|
-|예시|MySQL, PostgreSQL|CouchDB, Amazon DynamoDB|
+>> |------|---|---|
+>> |특징|조인연산 지원|조인연산을 지원 X|
+>> |용도|정형화된 데이터를 다룰 때|비정형 데이터를 다룰 때|
+>> |예시|MySQL, PostgreSQL|CouchDB, Amazon DynamoDB|
 
 >#### <span style='background-color:#f7ddbe'>**_수직적 규모 확장 vs 수평적 규모 확장_**</span>
 >> 수직적 규모 확장(scale up) : 서버에 고사양 자원을 추가하는 행위
