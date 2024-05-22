@@ -19,7 +19,7 @@
 
 ### 2️⃣ 모든 프로그래머가 알아야 하는 응답지연 값
 
-<img src="https://i.ibb.co/KjNtGP0/Kakao-Talk-20240523-025634241.jpg" alt="Kakao-Talk-20240523-025634241" width=80%><div>
+<img src="https://i.ibb.co/KjNtGP0/Kakao-Talk-20240523-025634241.jpg" alt="Kakao-Talk-20240523-025634241" width=50%><div>
 
 ### ✅결론
 
