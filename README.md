@@ -78,7 +78,6 @@
 
 ## 📌 Commit Convention
 
----
 
 Initial Commit
 
